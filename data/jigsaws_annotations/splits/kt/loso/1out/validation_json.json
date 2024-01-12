@@ -1,0 +1,542 @@
+{
+    "Knot_Tying_B001_capture1": {
+        "duration_second": 58.2999417,
+        "duration_frame": 1749,
+        "annotations": [
+            {
+                "segment": [
+                    1.4999985,
+                    57.8332755
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 1748,
+        "subset": "validation"
+    },
+    "Knot_Tying_B002_capture1": {
+        "duration_second": 49.4999505,
+        "duration_frame": 1485,
+        "annotations": [
+            {
+                "segment": [
+                    1.2333321,
+                    41.999958
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 1484,
+        "subset": "training"
+    },
+    "Knot_Tying_B003_capture1": {
+        "duration_second": 53.7999462,
+        "duration_frame": 1614,
+        "annotations": [
+            {
+                "segment": [
+                    0.2666664,
+                    45.166621500000005
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 1613,
+        "subset": "training"
+    },
+    "Knot_Tying_B004_capture1": {
+        "duration_second": 60.8332725,
+        "duration_frame": 1825,
+        "annotations": [
+            {
+                "segment": [
+                    1.8333315000000001,
+                    60.666606
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 1824,
+        "subset": "training"
+    },
+    "Knot_Tying_C001_capture1": {
+        "duration_second": 41.0999589,
+        "duration_frame": 1233,
+        "annotations": [
+            {
+                "segment": [
+                    1.2333321,
+                    40.8999591
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 1232,
+        "subset": "validation"
+    },
+    "Knot_Tying_C002_capture1": {
+        "duration_second": 35.766630899999996,
+        "duration_frame": 1073,
+        "annotations": [
+            {
+                "segment": [
+                    0.9333323999999998,
+                    33.333299999999994
+                ],
+                "label": "twenty-two"
+            }
+        ],
+        "feature_frame": 1072,
+        "subset": "training"
+    },
+    "Knot_Tying_C003_capture1": {
+        "duration_second": 35.9332974,
+        "duration_frame": 1078,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    34.8332985
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 1077,
+        "subset": "training"
+    },
+    "Knot_Tying_C004_capture1": {
+        "duration_second": 38.4999615,
+        "duration_frame": 1155,
+        "annotations": [
+            {
+                "segment": [
+                    0.666666,
+                    34.5666321
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 1154,
+        "subset": "training"
+    },
+    "Knot_Tying_C005_capture1": {
+        "duration_second": 38.4999615,
+        "duration_frame": 1155,
+        "annotations": [
+            {
+                "segment": [
+                    0.666666,
+                    34.5666321
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 1154,
+        "subset": "training"
+    },
+    "Knot_Tying_D001_capture1": {
+        "duration_second": 46.766619899999995,
+        "duration_frame": 1403,
+        "annotations": [
+            {
+                "segment": [
+                    1.3666653,
+                    44.933288399999995
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 1402,
+        "subset": "validation"
+    },
+    "Knot_Tying_D002_capture1": {
+        "duration_second": 41.5332918,
+        "duration_frame": 1246,
+        "annotations": [
+            {
+                "segment": [
+                    0.6999993,
+                    40.8999591
+                ],
+                "label": "sixteen"
+            }
+        ],
+        "feature_frame": 1245,
+        "subset": "training"
+    },
+    "Knot_Tying_D003_capture1": {
+        "duration_second": 46.8999531,
+        "duration_frame": 1407,
+        "annotations": [
+            {
+                "segment": [
+                    0.8333325,
+                    40.666626
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 1406,
+        "subset": "training"
+    },
+    "Knot_Tying_D004_capture1": {
+        "duration_second": 35.1332982,
+        "duration_frame": 1054,
+        "annotations": [
+            {
+                "segment": [
+                    0.9333324,
+                    31.1999688
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 1053,
+        "subset": "training"
+    },
+    "Knot_Tying_D005_capture1": {
+        "duration_second": 42.3666243,
+        "duration_frame": 1271,
+        "annotations": [
+            {
+                "segment": [
+                    0.666666,
+                    37.2332961
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 1270,
+        "subset": "training"
+    },
+    "Knot_Tying_E001_capture1": {
+        "duration_second": 53.233280099999995,
+        "duration_frame": 1597,
+        "annotations": [
+            {
+                "segment": [
+                    4.633328699999999,
+                    51.66661499999999
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 1596,
+        "subset": "validation"
+    },
+    "Knot_Tying_E002_capture1": {
+        "duration_second": 43.399956599999996,
+        "duration_frame": 1302,
+        "annotations": [
+            {
+                "segment": [
+                    1.333332,
+                    41.89995809999999
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 1301,
+        "subset": "training"
+    },
+    "Knot_Tying_E003_capture1": {
+        "duration_second": 47.2999527,
+        "duration_frame": 1419,
+        "annotations": [
+            {
+                "segment": [
+                    5.4333279,
+                    45.333288
+                ],
+                "label": "twenty-two"
+            }
+        ],
+        "feature_frame": 1418,
+        "subset": "training"
+    },
+    "Knot_Tying_E004_capture1": {
+        "duration_second": 46.199953799999996,
+        "duration_frame": 1386,
+        "annotations": [
+            {
+                "segment": [
+                    1.9999979999999997,
+                    45.433287899999996
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 1385,
+        "subset": "training"
+    },
+    "Knot_Tying_E005_capture1": {
+        "duration_second": 42.0666246,
+        "duration_frame": 1262,
+        "annotations": [
+            {
+                "segment": [
+                    1.4333319,
+                    38.999961
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 1261,
+        "subset": "training"
+    },
+    "Knot_Tying_F001_capture1": {
+        "duration_second": 30.8333025,
+        "duration_frame": 925,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    29.8666368
+                ],
+                "label": "sixteen"
+            }
+        ],
+        "feature_frame": 924,
+        "subset": "validation"
+    },
+    "Knot_Tying_F002_capture1": {
+        "duration_second": 33.8999661,
+        "duration_frame": 1017,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    32.7999672
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 1016,
+        "subset": "training"
+    },
+    "Knot_Tying_F003_capture1": {
+        "duration_second": 90.8999091,
+        "duration_frame": 2727,
+        "annotations": [
+            {
+                "segment": [
+                    2.9666637000000002,
+                    86.66658
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 2726,
+        "subset": "training"
+    },
+    "Knot_Tying_F004_capture1": {
+        "duration_second": 61.166605499999996,
+        "duration_frame": 1835,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    59.7332736
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 1834,
+        "subset": "training"
+    },
+    "Knot_Tying_F005_capture1": {
+        "duration_second": 45.9666207,
+        "duration_frame": 1379,
+        "annotations": [
+            {
+                "segment": [
+                    0.43333289999999997,
+                    43.33329
+                ],
+                "label": "fifteen"
+            }
+        ],
+        "feature_frame": 1378,
+        "subset": "training"
+    },
+    "Knot_Tying_G001_capture1": {
+        "duration_second": 79.0999209,
+        "duration_frame": 2373,
+        "annotations": [
+            {
+                "segment": [
+                    6.0666606,
+                    76.999923
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 2372,
+        "subset": "validation"
+    },
+    "Knot_Tying_G002_capture1": {
+        "duration_second": 76.1999238,
+        "duration_frame": 2286,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    73.2332601
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 2285,
+        "subset": "training"
+    },
+    "Knot_Tying_G003_capture1": {
+        "duration_second": 80.9332524,
+        "duration_frame": 2428,
+        "annotations": [
+            {
+                "segment": [
+                    5.8333275,
+                    78.6999213
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 2427,
+        "subset": "training"
+    },
+    "Knot_Tying_G004_capture1": {
+        "duration_second": 128.8665378,
+        "duration_frame": 3866,
+        "annotations": [
+            {
+                "segment": [
+                    2.666664,
+                    128.4332049
+                ],
+                "label": "six"
+            }
+        ],
+        "feature_frame": 3865,
+        "subset": "training"
+    },
+    "Knot_Tying_G005_capture1": {
+        "duration_second": 56.66661,
+        "duration_frame": 1700,
+        "annotations": [
+            {
+                "segment": [
+                    0.7666658999999999,
+                    54.5332788
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 1769,
+        "subset": "training"
+    },
+    "Knot_Tying_H003_capture1": {
+        "duration_second": 54.666612,
+        "duration_frame": 1640,
+        "annotations": [
+            {
+                "segment": [
+                    6.4333269,
+                    52.333281
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 1639,
+        "subset": "training"
+    },
+    "Knot_Tying_H004_capture1": {
+        "duration_second": 75.1665915,
+        "duration_frame": 2255,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    43.33329
+                ],
+                "label": "twelve-two"
+            }
+        ],
+        "feature_frame": 2254,
+        "subset": "training"
+    },
+    "Knot_Tying_H005_capture1": {
+        "duration_second": 65.2332681,
+        "duration_frame": 1957,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    48.66661800000001
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 1956,
+        "subset": "training"
+    },
+    "Knot_Tying_I001_capture1": {
+        "duration_second": 77.7999222,
+        "duration_frame": 2334,
+        "annotations": [
+            {
+                "segment": [
+                    0.666666,
+                    74.8332585
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 2333,
+        "subset": "validation"
+    },
+    "Knot_Tying_I002_capture1": {
+        "duration_second": 81.0665856,
+        "duration_frame": 2432,
+        "annotations": [
+            {
+                "segment": [
+                    0.19999979999999998,
+                    78.333255
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 2431,
+        "subset": "training"
+    },
+    "Knot_Tying_I003_capture1": {
+        "duration_second": 68.9665977,
+        "duration_frame": 2069,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    65.83326749999999
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 2068,
+        "subset": "training"
+    },
+    "Knot_Tying_I005_capture1": {
+        "duration_second": 88.666578,
+        "duration_frame": 2660,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    87.0665796
+                ],
+                "label": "six"
+            }
+        ],
+        "feature_frame": 2659,
+        "subset": "training"
+    }
+}

@@ -1,0 +1,1094 @@
+{
+    "Suturing_B001_capture1": {
+        "duration_second": 187.999812,
+        "duration_frame": 5640,
+        "annotations": [
+            {
+                "segment": [
+                    2.666664,
+                    187.8331455
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 5640
+    },
+    "Suturing_B001_capture2": {
+        "duration_second": 187.999812,
+        "duration_frame": 5640,
+        "annotations": [
+            {
+                "segment": [
+                    2.666664,
+                    187.8331455
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 5640
+    },
+    "Suturing_B002_capture1": {
+        "duration_second": 115.3998846,
+        "duration_frame": 3462,
+        "annotations": [
+            {
+                "segment": [
+                    0.1666665,
+                    114.1332192
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3462
+    },
+    "Suturing_B002_capture2": {
+        "duration_second": 115.29988469999999,
+        "duration_frame": 3459,
+        "annotations": [
+            {
+                "segment": [
+                    0.16666649999999997,
+                    114.1332192
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3459
+    },
+    "Suturing_B003_capture1": {
+        "duration_second": 114.5665521,
+        "duration_frame": 3437,
+        "annotations": [
+            {
+                "segment": [
+                    0.2666664,
+                    109.1332242
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3437
+    },
+    "Suturing_B003_capture2": {
+        "duration_second": 114.5665521,
+        "duration_frame": 3437,
+        "annotations": [
+            {
+                "segment": [
+                    0.2666664,
+                    109.1332242
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3437
+    },
+    "Suturing_B004_capture1": {
+        "duration_second": 109.1332242,
+        "duration_frame": 3274,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    108.5665581
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 3274
+    },
+    "Suturing_B004_capture2": {
+        "duration_second": 109.1332242,
+        "duration_frame": 3274,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    108.5665581
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 3274
+    },
+    "Suturing_B005_capture1": {
+        "duration_second": 95.4332379,
+        "duration_frame": 2863,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    94.9332384
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2863
+    },
+    "Suturing_B005_capture2": {
+        "duration_second": 95.4332379,
+        "duration_frame": 2863,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    94.9332384
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2863
+    },
+    "Suturing_C001_capture1": {
+        "duration_second": 106.16656049999999,
+        "duration_frame": 3185,
+        "annotations": [
+            {
+                "segment": [
+                    0.8666657999999999,
+                    105.99989399999998
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 3185
+    },
+    "Suturing_C001_capture2": {
+        "duration_second": 106.16656049999999,
+        "duration_frame": 3185,
+        "annotations": [
+            {
+                "segment": [
+                    0.8666657999999999,
+                    105.99989399999998
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 3185
+    },
+    "Suturing_C002_capture1": {
+        "duration_second": 109.39989059999999,
+        "duration_frame": 3282,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    108.89989109999999
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 3282
+    },
+    "Suturing_C002_capture2": {
+        "duration_second": 109.39989059999999,
+        "duration_frame": 3282,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    108.89989109999999
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 3282
+    },
+    "Suturing_C003_capture1": {
+        "duration_second": 105.53322779999999,
+        "duration_frame": 3166,
+        "annotations": [
+            {
+                "segment": [
+                    0.43333289999999997,
+                    101.999898
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 3166
+    },
+    "Suturing_C003_capture2": {
+        "duration_second": 105.53322779999999,
+        "duration_frame": 3166,
+        "annotations": [
+            {
+                "segment": [
+                    0.43333289999999997,
+                    101.999898
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 3166
+    },
+    "Suturing_C004_capture1": {
+        "duration_second": 83.0999169,
+        "duration_frame": 2493,
+        "annotations": [
+            {
+                "segment": [
+                    0.06666659999999999,
+                    81.666585
+                ],
+                "label": "thirty"
+            }
+        ],
+        "feature_frame": 2493
+    },
+    "Suturing_C004_capture2": {
+        "duration_second": 83.0999169,
+        "duration_frame": 2493,
+        "annotations": [
+            {
+                "segment": [
+                    0.06666659999999999,
+                    81.666585
+                ],
+                "label": "thirty"
+            }
+        ],
+        "feature_frame": 2493
+    },
+    "Suturing_C005_capture1": {
+        "duration_second": 86.0332473,
+        "duration_frame": 2581,
+        "annotations": [
+            {
+                "segment": [
+                    0.7999992,
+                    84.999915
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 2581
+    },
+    "Suturing_C005_capture2": {
+        "duration_second": 86.0332473,
+        "duration_frame": 2581,
+        "annotations": [
+            {
+                "segment": [
+                    0.7999992,
+                    84.999915
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 2581
+    },
+    "Suturing_D001_capture1": {
+        "duration_second": 93.8665728,
+        "duration_frame": 2816,
+        "annotations": [
+            {
+                "segment": [
+                    3.9333294,
+                    92.333241
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 2816
+    },
+    "Suturing_D001_capture2": {
+        "duration_second": 93.8665728,
+        "duration_frame": 2816,
+        "annotations": [
+            {
+                "segment": [
+                    3.9333294,
+                    92.333241
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 2816
+    },
+    "Suturing_D002_capture1": {
+        "duration_second": 73.96659269999999,
+        "duration_frame": 2219,
+        "annotations": [
+            {
+                "segment": [
+                    1.0333322999999999,
+                    67.7332656
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 2219
+    },
+    "Suturing_D002_capture2": {
+        "duration_second": 73.96659269999999,
+        "duration_frame": 2219,
+        "annotations": [
+            {
+                "segment": [
+                    1.0333322999999999,
+                    67.7332656
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 2219
+    },
+    "Suturing_D003_capture1": {
+        "duration_second": 77.3999226,
+        "duration_frame": 2322,
+        "annotations": [
+            {
+                "segment": [
+                    0.4666662,
+                    77.23325609999999
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 2322
+    },
+    "Suturing_D003_capture2": {
+        "duration_second": 77.3999226,
+        "duration_frame": 2322,
+        "annotations": [
+            {
+                "segment": [
+                    0.4666662,
+                    77.23325609999999
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 2322
+    },
+    "Suturing_D004_capture1": {
+        "duration_second": 91.5665751,
+        "duration_frame": 2747,
+        "annotations": [
+            {
+                "segment": [
+                    1.3666653,
+                    89.3999106
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 2747
+    },
+    "Suturing_D004_capture2": {
+        "duration_second": 91.5665751,
+        "duration_frame": 2747,
+        "annotations": [
+            {
+                "segment": [
+                    1.3666653,
+                    89.3999106
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 2747
+    },
+    "Suturing_D005_capture1": {
+        "duration_second": 59.799940199999995,
+        "duration_frame": 1794,
+        "annotations": [
+            {
+                "segment": [
+                    0.6999992999999999,
+                    59.29994069999999
+                ],
+                "label": "fifteen"
+            }
+        ],
+        "feature_frame": 1794
+    },
+    "Suturing_D005_capture2": {
+        "duration_second": 59.799940199999995,
+        "duration_frame": 1794,
+        "annotations": [
+            {
+                "segment": [
+                    0.6999992999999999,
+                    59.29994069999999
+                ],
+                "label": "fifteen"
+            }
+        ],
+        "feature_frame": 1794
+    },
+    "Suturing_E001_capture1": {
+        "duration_second": 120.2332131,
+        "duration_frame": 3607,
+        "annotations": [
+            {
+                "segment": [
+                    0.333333,
+                    119.76654690000001
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3607
+    },
+    "Suturing_E001_capture2": {
+        "duration_second": 120.2332131,
+        "duration_frame": 3607,
+        "annotations": [
+            {
+                "segment": [
+                    0.333333,
+                    119.76654690000001
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3607
+    },
+    "Suturing_E002_capture1": {
+        "duration_second": 98.43323489999999,
+        "duration_frame": 2953,
+        "annotations": [
+            {
+                "segment": [
+                    0.7666658999999999,
+                    98.26656839999998
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 2953
+    },
+    "Suturing_E002_capture2": {
+        "duration_second": 98.43323489999999,
+        "duration_frame": 2953,
+        "annotations": [
+            {
+                "segment": [
+                    0.7666658999999999,
+                    98.26656839999998
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 2953
+    },
+    "Suturing_E003_capture1": {
+        "duration_second": 86.9665797,
+        "duration_frame": 2609,
+        "annotations": [
+            {
+                "segment": [
+                    1.999998,
+                    85.8332475
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2609
+    },
+    "Suturing_E003_capture2": {
+        "duration_second": 86.9665797,
+        "duration_frame": 2609,
+        "annotations": [
+            {
+                "segment": [
+                    1.999998,
+                    85.8332475
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2609
+    },
+    "Suturing_E004_capture1": {
+        "duration_second": 97.69990229999999,
+        "duration_frame": 2931,
+        "annotations": [
+            {
+                "segment": [
+                    1.8999980999999997,
+                    97.53323579999999
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2931
+    },
+    "Suturing_E004_capture2": {
+        "duration_second": 97.69990229999999,
+        "duration_frame": 2931,
+        "annotations": [
+            {
+                "segment": [
+                    1.8999980999999997,
+                    97.53323579999999
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2931
+    },
+    "Suturing_E005_capture1": {
+        "duration_second": 82.93325039999999,
+        "duration_frame": 2488,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    82.7665839
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2488
+    },
+    "Suturing_E005_capture2": {
+        "duration_second": 82.93325039999999,
+        "duration_frame": 2488,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    82.7665839
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2488
+    },
+    "Suturing_F001_capture1": {
+        "duration_second": 94.7999052,
+        "duration_frame": 2844,
+        "annotations": [
+            {
+                "segment": [
+                    1.1666655,
+                    94.5999054
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 2844
+    },
+    "Suturing_F001_capture2": {
+        "duration_second": 94.7999052,
+        "duration_frame": 2844,
+        "annotations": [
+            {
+                "segment": [
+                    1.1666655,
+                    94.5999054
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 2844
+    },
+    "Suturing_F002_capture1": {
+        "duration_second": 79.333254,
+        "duration_frame": 2380,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    79.16658749999999
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 2380
+    },
+    "Suturing_F002_capture2": {
+        "duration_second": 79.333254,
+        "duration_frame": 2380,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    79.16658749999999
+                ],
+                "label": "twenty-six"
+            }
+        ],
+        "feature_frame": 2380
+    },
+    "Suturing_F003_capture1": {
+        "duration_second": 75.9665907,
+        "duration_frame": 2279,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    74.49992549999999
+                ],
+                "label": "twenty-nine"
+            }
+        ],
+        "feature_frame": 2279
+    },
+    "Suturing_F003_capture2": {
+        "duration_second": 75.9665907,
+        "duration_frame": 2279,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    74.49992549999999
+                ],
+                "label": "twenty-nine"
+            }
+        ],
+        "feature_frame": 2279
+    },
+    "Suturing_F004_capture1": {
+        "duration_second": 79.26658739999999,
+        "duration_frame": 2378,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    79.0999209
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 2378
+    },
+    "Suturing_F004_capture2": {
+        "duration_second": 79.26658739999999,
+        "duration_frame": 2378,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    79.0999209
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 2378
+    },
+    "Suturing_F005_capture1": {
+        "duration_second": 68.1999318,
+        "duration_frame": 2046,
+        "annotations": [
+            {
+                "segment": [
+                    0.36666630000000006,
+                    67.9665987
+                ],
+                "label": "twenty-nine"
+            }
+        ],
+        "feature_frame": 2046
+    },
+    "Suturing_F005_capture2": {
+        "duration_second": 68.1999318,
+        "duration_frame": 2046,
+        "annotations": [
+            {
+                "segment": [
+                    0.36666630000000006,
+                    67.9665987
+                ],
+                "label": "twenty-nine"
+            }
+        ],
+        "feature_frame": 2046
+    },
+    "Suturing_G001_capture1": {
+        "duration_second": 300.8663658,
+        "duration_frame": 9026,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    300.39969959999996
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 9026
+    },
+    "Suturing_G001_capture2": {
+        "duration_second": 300.8663658,
+        "duration_frame": 9026,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    300.39969959999996
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 9026
+    },
+    "Suturing_G002_capture1": {
+        "duration_second": 112.8332205,
+        "duration_frame": 3385,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    112.6332207
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 3385
+    },
+    "Suturing_G002_capture2": {
+        "duration_second": 112.8332205,
+        "duration_frame": 3385,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    112.6332207
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 3385
+    },
+    "Suturing_G003_capture1": {
+        "duration_second": 173.8331595,
+        "duration_frame": 5215,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    171.99982799999998
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 5215
+    },
+    "Suturing_G003_capture2": {
+        "duration_second": 173.8331595,
+        "duration_frame": 5215,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    171.99982799999998
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 5215
+    },
+    "Suturing_G004_capture1": {
+        "duration_second": 88.4999115,
+        "duration_frame": 2655,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    87.33324599999999
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 2655
+    },
+    "Suturing_G004_capture2": {
+        "duration_second": 88.4999115,
+        "duration_frame": 2655,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    87.33324599999999
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 2655
+    },
+    "Suturing_G005_capture1": {
+        "duration_second": 82.2999177,
+        "duration_frame": 2469,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    81.7999182
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 2469
+    },
+    "Suturing_G005_capture2": {
+        "duration_second": 82.2999177,
+        "duration_frame": 2469,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    81.7999182
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 2469
+    },
+    "Suturing_H001_capture1": {
+        "duration_second": 188.5998114,
+        "duration_frame": 5658,
+        "annotations": [
+            {
+                "segment": [
+                    2.9999969999999996,
+                    178.7664879
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 5658
+    },
+    "Suturing_H001_capture2": {
+        "duration_second": 188.5998114,
+        "duration_frame": 5658,
+        "annotations": [
+            {
+                "segment": [
+                    2.9999969999999996,
+                    178.7664879
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 5658
+    },
+    "Suturing_H003_capture1": {
+        "duration_second": 113.6332197,
+        "duration_frame": 3409,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    110.666556
+                ],
+                "label": "twenty-five"
+            }
+        ],
+        "feature_frame": 3409
+    },
+    "Suturing_H003_capture2": {
+        "duration_second": 113.6332197,
+        "duration_frame": 3409,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    110.666556
+                ],
+                "label": "twenty-five"
+            }
+        ],
+        "feature_frame": 3409
+    },
+    "Suturing_H004_capture1": {
+        "duration_second": 136.66653,
+        "duration_frame": 4100,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    133.999866
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 4100
+    },
+    "Suturing_H004_capture2": {
+        "duration_second": 136.66653,
+        "duration_frame": 4100,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    133.999866
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 4100
+    },
+    "Suturing_H005_capture1": {
+        "duration_second": 114.69988529999999,
+        "duration_frame": 3441,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    109.29989069999999
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 3441
+    },
+    "Suturing_H005_capture2": {
+        "duration_second": 114.69988529999999,
+        "duration_frame": 3441,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    109.29989069999999
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 3441
+    },
+    "Suturing_I001_capture1": {
+        "duration_second": 143.9331894,
+        "duration_frame": 4318,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    143.66652299999998
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 4318
+    },
+    "Suturing_I001_capture2": {
+        "duration_second": 143.9331894,
+        "duration_frame": 4318,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    143.66652299999998
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 4318
+    },
+    "Suturing_I002_capture1": {
+        "duration_second": 147.23318609999998,
+        "duration_frame": 4417,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    147.0665196
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 4417
+    },
+    "Suturing_I002_capture2": {
+        "duration_second": 147.23318609999998,
+        "duration_frame": 4417,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    147.0665196
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 4417
+    },
+    "Suturing_I003_capture1": {
+        "duration_second": 142.96652369999998,
+        "duration_frame": 4289,
+        "annotations": [
+            {
+                "segment": [
+                    4.6333287,
+                    142.7998572
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 4289
+    },
+    "Suturing_I003_capture2": {
+        "duration_second": 142.96652369999998,
+        "duration_frame": 4289,
+        "annotations": [
+            {
+                "segment": [
+                    4.6333287,
+                    142.7998572
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 4289
+    },
+    "Suturing_I004_capture1": {
+        "duration_second": 124.8332085,
+        "duration_frame": 3745,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    124.333209
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 3745
+    },
+    "Suturing_I004_capture2": {
+        "duration_second": 124.8332085,
+        "duration_frame": 3745,
+        "annotations": [
+            {
+                "segment": [
+                    0.0333333,
+                    124.333209
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 3745
+    },
+    "Suturing_I005_capture1": {
+        "duration_second": 125.9332074,
+        "duration_frame": 3778,
+        "annotations": [
+            {
+                "segment": [
+                    2.4333309,
+                    125.76654090000001
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 3778
+    },
+    "Suturing_I005_capture2": {
+        "duration_second": 125.9332074,
+        "duration_frame": 3778,
+        "annotations": [
+            {
+                "segment": [
+                    2.4333309,
+                    125.76654090000001
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 3778
+    }
+}

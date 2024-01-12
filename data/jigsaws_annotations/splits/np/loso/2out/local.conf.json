@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "primaryPort": 9993
+    "secondaryPort": 21234
+    "tertiaryPort": 31234
+  }
+}

@@ -1,0 +1,786 @@
+{
+    "Needle_Passing_B001_capture1": {
+        "duration_second": 115.0665516,
+        "duration_frame": 3452,
+        "annotations": [
+            {
+                "segment": [
+                    5.5333278,
+                    110.999889
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 3452
+    },
+    "Needle_Passing_B001_capture2": {
+        "duration_second": 115.0665516,
+        "duration_frame": 3452,
+        "annotations": [
+            {
+                "segment": [
+                    5.5333278,
+                    110.999889
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 3452
+    },
+    "Needle_Passing_B002_capture1": {
+        "duration_second": 106.06656059999999,
+        "duration_frame": 3182,
+        "annotations": [
+            {
+                "segment": [
+                    1.0666655999999999,
+                    102.666564
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 3182
+    },
+    "Needle_Passing_B002_capture2": {
+        "duration_second": 106.06656059999999,
+        "duration_frame": 3182,
+        "annotations": [
+            {
+                "segment": [
+                    1.0666655999999999,
+                    102.666564
+                ],
+                "label": "eight"
+            }
+        ],
+        "feature_frame": 3182
+    },
+    "Needle_Passing_B003_capture1": {
+        "duration_second": 108.09989189999999,
+        "duration_frame": 3243,
+        "annotations": [
+            {
+                "segment": [
+                    1.2666654,
+                    107.93322539999998
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3243
+    },
+    "Needle_Passing_B003_capture2": {
+        "duration_second": 108.09989189999999,
+        "duration_frame": 3243,
+        "annotations": [
+            {
+                "segment": [
+                    1.2666654,
+                    107.93322539999998
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3243
+    },
+    "Needle_Passing_B004_capture1": {
+        "duration_second": 96.4332369,
+        "duration_frame": 2893,
+        "annotations": [
+            {
+                "segment": [
+                    1.0333322999999999,
+                    92.666574
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2893
+    },
+    "Needle_Passing_B004_capture2": {
+        "duration_second": 96.4332369,
+        "duration_frame": 2893,
+        "annotations": [
+            {
+                "segment": [
+                    1.0333322999999999,
+                    92.666574
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 2893
+    },
+    "Needle_Passing_C001_capture1": {
+        "duration_second": 144.2331891,
+        "duration_frame": 4327,
+        "annotations": [
+            {
+                "segment": [
+                    0.8999991,
+                    143.76652289999998
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 4327
+    },
+    "Needle_Passing_C001_capture2": {
+        "duration_second": 144.2331891,
+        "duration_frame": 4327,
+        "annotations": [
+            {
+                "segment": [
+                    0.8999991,
+                    143.76652289999998
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 4327
+    },
+    "Needle_Passing_C002_capture1": {
+        "duration_second": 120.93321239999999,
+        "duration_frame": 3628,
+        "annotations": [
+            {
+                "segment": [
+                    1.6666649999999998,
+                    120.43321289999999
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 3628
+    },
+    "Needle_Passing_C002_capture2": {
+        "duration_second": 120.93321239999999,
+        "duration_frame": 3628,
+        "annotations": [
+            {
+                "segment": [
+                    1.6666649999999998,
+                    120.43321289999999
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 3628
+    },
+    "Needle_Passing_C003_capture1": {
+        "duration_second": 119.2332141,
+        "duration_frame": 3577,
+        "annotations": [
+            {
+                "segment": [
+                    1.666665,
+                    119.06654759999999
+                ],
+                "label": "seven"
+            }
+        ],
+        "feature_frame": 3577
+    },
+    "Needle_Passing_C003_capture2": {
+        "duration_second": 119.2332141,
+        "duration_frame": 3577,
+        "annotations": [
+            {
+                "segment": [
+                    1.666665,
+                    119.06654759999999
+                ],
+                "label": "seven"
+            }
+        ],
+        "feature_frame": 3577
+    },
+    "Needle_Passing_C004_capture1": {
+        "duration_second": 81.5665851,
+        "duration_frame": 2447,
+        "annotations": [
+            {
+                "segment": [
+                    0.999999,
+                    79.99992
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2447
+    },
+    "Needle_Passing_C004_capture2": {
+        "duration_second": 81.5665851,
+        "duration_frame": 2447,
+        "annotations": [
+            {
+                "segment": [
+                    0.999999,
+                    79.99992
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2447
+    },
+    "Needle_Passing_C005_capture1": {
+        "duration_second": 85.3999146,
+        "duration_frame": 2562,
+        "annotations": [
+            {
+                "segment": [
+                    1.6999983,
+                    85.2332481
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2562
+    },
+    "Needle_Passing_C005_capture2": {
+        "duration_second": 85.3999146,
+        "duration_frame": 2562,
+        "annotations": [
+            {
+                "segment": [
+                    1.6999983,
+                    85.2332481
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2562
+    },
+    "Needle_Passing_D001_capture1": {
+        "duration_second": 155.1998448,
+        "duration_frame": 4656,
+        "annotations": [
+            {
+                "segment": [
+                    1.5333317999999998,
+                    155.0331783
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 4656
+    },
+    "Needle_Passing_D001_capture2": {
+        "duration_second": 155.1998448,
+        "duration_frame": 4656,
+        "annotations": [
+            {
+                "segment": [
+                    1.5333317999999998,
+                    155.0331783
+                ],
+                "label": "nine"
+            }
+        ],
+        "feature_frame": 4656
+    },
+    "Needle_Passing_D002_capture1": {
+        "duration_second": 109.666557,
+        "duration_frame": 3290,
+        "annotations": [
+            {
+                "segment": [
+                    1.3999986,
+                    106.2332271
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 3290
+    },
+    "Needle_Passing_D002_capture2": {
+        "duration_second": 109.666557,
+        "duration_frame": 3290,
+        "annotations": [
+            {
+                "segment": [
+                    1.3999986,
+                    106.2332271
+                ],
+                "label": "eleven"
+            }
+        ],
+        "feature_frame": 3290
+    },
+    "Needle_Passing_D003_capture1": {
+        "duration_second": 108.333225,
+        "duration_frame": 3250,
+        "annotations": [
+            {
+                "segment": [
+                    1.666665,
+                    99.4332339
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 3250
+    },
+    "Needle_Passing_D003_capture2": {
+        "duration_second": 108.333225,
+        "duration_frame": 3250,
+        "annotations": [
+            {
+                "segment": [
+                    1.666665,
+                    99.4332339
+                ],
+                "label": "ten"
+            }
+        ],
+        "feature_frame": 3250
+    },
+    "Needle_Passing_D004_capture1": {
+        "duration_second": 90.4999095,
+        "duration_frame": 2715,
+        "annotations": [
+            {
+                "segment": [
+                    1.0666655999999999,
+                    89.4999105
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2715
+    },
+    "Needle_Passing_D004_capture2": {
+        "duration_second": 90.4999095,
+        "duration_frame": 2715,
+        "annotations": [
+            {
+                "segment": [
+                    1.0666655999999999,
+                    89.4999105
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 2715
+    },
+    "Needle_Passing_D005_capture1": {
+        "duration_second": 70.999929,
+        "duration_frame": 2130,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    65.3999346
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 2130
+    },
+    "Needle_Passing_D005_capture2": {
+        "duration_second": 70.999929,
+        "duration_frame": 2130,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    65.3999346
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 2130
+    },
+    "Needle_Passing_E001_capture1": {
+        "duration_second": 108.9665577,
+        "duration_frame": 3269,
+        "annotations": [
+            {
+                "segment": [
+                    0.4999995,
+                    107.66655899999999
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 3269
+    },
+    "Needle_Passing_E001_capture2": {
+        "duration_second": 108.9665577,
+        "duration_frame": 3269,
+        "annotations": [
+            {
+                "segment": [
+                    0.4999995,
+                    107.66655899999999
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 3269
+    },
+    "Needle_Passing_E003_capture1": {
+        "duration_second": 114.29988569999999,
+        "duration_frame": 3429,
+        "annotations": [
+            {
+                "segment": [
+                    3.4333299,
+                    113.79988619999999
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 3429
+    },
+    "Needle_Passing_E003_capture2": {
+        "duration_second": 114.29988569999999,
+        "duration_frame": 3429,
+        "annotations": [
+            {
+                "segment": [
+                    3.4333299,
+                    113.79988619999999
+                ],
+                "label": "thirteen"
+            }
+        ],
+        "feature_frame": 3429
+    },
+    "Needle_Passing_E004_capture1": {
+        "duration_second": 112.6998873,
+        "duration_frame": 3381,
+        "annotations": [
+            {
+                "segment": [
+                    2.4333309,
+                    110.5998894
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3381
+    },
+    "Needle_Passing_E004_capture2": {
+        "duration_second": 112.6998873,
+        "duration_frame": 3381,
+        "annotations": [
+            {
+                "segment": [
+                    2.4333309,
+                    110.5998894
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 3381
+    },
+    "Needle_Passing_E005_capture1": {
+        "duration_second": 111.03322229999999,
+        "duration_frame": 3331,
+        "annotations": [
+            {
+                "segment": [
+                    3.1333302,
+                    110.86655579999999
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3331
+    },
+    "Needle_Passing_E005_capture2": {
+        "duration_second": 111.03322229999999,
+        "duration_frame": 3331,
+        "annotations": [
+            {
+                "segment": [
+                    3.1333302,
+                    110.86655579999999
+                ],
+                "label": "seventeen"
+            }
+        ],
+        "feature_frame": 3331
+    },
+    "Needle_Passing_F001_capture1": {
+        "duration_second": 62.499937499999994,
+        "duration_frame": 1875,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    62.36660429999999
+                ],
+                "label": "twenty-two"
+            }
+        ],
+        "feature_frame": 1875
+    },
+    "Needle_Passing_F001_capture2": {
+        "duration_second": 62.499937499999994,
+        "duration_frame": 1875,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    62.36660429999999
+                ],
+                "label": "twenty-two"
+            }
+        ],
+        "feature_frame": 1875
+    },
+    "Needle_Passing_F003_capture1": {
+        "duration_second": 77.53325579999999,
+        "duration_frame": 2326,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    75.56659109999998
+                ],
+                "label": "fifteen"
+            }
+        ],
+        "feature_frame": 2326
+    },
+    "Needle_Passing_F003_capture2": {
+        "duration_second": 77.53325579999999,
+        "duration_frame": 2326,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    75.56659109999998
+                ],
+                "label": "fifteen"
+            }
+        ],
+        "feature_frame": 2326
+    },
+    "Needle_Passing_F004_capture1": {
+        "duration_second": 59.699940299999994,
+        "duration_frame": 1791,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    59.5666071
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 1791
+    },
+    "Needle_Passing_F004_capture2": {
+        "duration_second": 59.699940299999994,
+        "duration_frame": 1791,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    59.5666071
+                ],
+                "label": "twenty-four"
+            }
+        ],
+        "feature_frame": 1791
+    },
+    "Needle_Passing_H002_capture1": {
+        "duration_second": 123.7998762,
+        "duration_frame": 3714,
+        "annotations": [
+            {
+                "segment": [
+                    0.3666663,
+                    122.89987710000001
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 3714
+    },
+    "Needle_Passing_H002_capture2": {
+        "duration_second": 123.7998762,
+        "duration_frame": 3714,
+        "annotations": [
+            {
+                "segment": [
+                    0.3666663,
+                    122.89987710000001
+                ],
+                "label": "nineteen"
+            }
+        ],
+        "feature_frame": 3714
+    },
+    "Needle_Passing_H004_capture1": {
+        "duration_second": 122.1998778,
+        "duration_frame": 3666,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    115.999884
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 3666
+    },
+    "Needle_Passing_H004_capture2": {
+        "duration_second": 122.1998778,
+        "duration_frame": 3666,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    115.999884
+                ],
+                "label": "twenty"
+            }
+        ],
+        "feature_frame": 3666
+    },
+    "Needle_Passing_H005_capture1": {
+        "duration_second": 110.999889,
+        "duration_frame": 3330,
+        "annotations": [
+            {
+                "segment": [
+                    7.966658699999999,
+                    108.2998917
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 3330
+    },
+    "Needle_Passing_H005_capture2": {
+        "duration_second": 110.999889,
+        "duration_frame": 3330,
+        "annotations": [
+            {
+                "segment": [
+                    7.966658699999999,
+                    108.2998917
+                ],
+                "label": "twenty-one"
+            }
+        ],
+        "feature_frame": 3330
+    },
+    "Needle_Passing_I002_capture1": {
+        "duration_second": 114.8332185,
+        "duration_frame": 3445,
+        "annotations": [
+            {
+                "segment": [
+                    2.7333306000000004,
+                    114.7665519
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 3445
+    },
+    "Needle_Passing_I002_capture2": {
+        "duration_second": 114.8332185,
+        "duration_frame": 3445,
+        "annotations": [
+            {
+                "segment": [
+                    2.7333306000000004,
+                    114.7665519
+                ],
+                "label": "twelve"
+            }
+        ],
+        "feature_frame": 3445
+    },
+    "Needle_Passing_I003_capture1": {
+        "duration_second": 159.1998408,
+        "duration_frame": 4776,
+        "annotations": [
+            {
+                "segment": [
+                    3.9999960000000003,
+                    158.6998413
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 4776
+    },
+    "Needle_Passing_I003_capture2": {
+        "duration_second": 159.1998408,
+        "duration_frame": 4776,
+        "annotations": [
+            {
+                "segment": [
+                    3.9999960000000003,
+                    158.6998413
+                ],
+                "label": "fourteen"
+            }
+        ],
+        "feature_frame": 4776
+    },
+    "Needle_Passing_I004_capture1": {
+        "duration_second": 133.06653359999999,
+        "duration_frame": 3992,
+        "annotations": [
+            {
+                "segment": [
+                    0.39999959999999996,
+                    132.5998674
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 3992
+    },
+    "Needle_Passing_I004_capture2": {
+        "duration_second": 133.06653359999999,
+        "duration_frame": 3992,
+        "annotations": [
+            {
+                "segment": [
+                    0.39999959999999996,
+                    132.5998674
+                ],
+                "label": "eighteen"
+            }
+        ],
+        "feature_frame": 3992
+    },
+    "Needle_Passing_I005_capture1": {
+        "duration_second": 114.2332191,
+        "duration_frame": 3427,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    113.7665529
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 3427
+    },
+    "Needle_Passing_I005_capture2": {
+        "duration_second": 114.2332191,
+        "duration_frame": 3427,
+        "annotations": [
+            {
+                "segment": [
+                    0.033333299999999996,
+                    113.7665529
+                ],
+                "label": "twenty-three"
+            }
+        ],
+        "feature_frame": 3427
+    }
+}
